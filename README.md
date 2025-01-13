@@ -1,5 +1,12 @@
 # Neural Network Drawing Method
 
-[PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)：![](C:\Users\21029\Desktop\NeuralNetworkDraw\50308846-c2231880-049c-11e9-8763-3daa1024de78.png)
+## MTID
+![alt text](image-3.png)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
+---
+
+辅助工具：[PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 
